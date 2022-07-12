@@ -1,4 +1,4 @@
-# Breast-Cancer-Detection
+# Titanic-ML
 Binary classification of whether passengers aboard the Titanic survived, using various Machine Learning models. Based on Kaggle's [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/overview/description) competition.
 
 ## Goal
