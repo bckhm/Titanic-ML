@@ -12,6 +12,6 @@ Binary classification of whether passengers aboard the Titanic survived, using v
     • pandas
     • matplotlib.pyplot
     • seaborn
-    • XGBoost
+    • xgboost
     • sklearn
     • Jupyter Notebook / Lab    
